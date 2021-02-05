@@ -7,6 +7,8 @@
 A simple landing page created with HTML, CSS and a speck of JS. There is both desktop and mobile support.
 Designed using [Figma](https://www.figma.com/). :rocket:
 
+<strong> LIVE: https://felixgren.github.io/nook-inc/ </strong>
+
 ## Installation
 ```
 git clone https://github.com/felixgren/nook-inc.git
